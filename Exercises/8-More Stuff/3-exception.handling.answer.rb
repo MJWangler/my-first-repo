@@ -1,0 +1,1 @@
+  #Exception handling is the method in which errors/exceptions that are raised are accounted for in our programs. This is often a way to avoid getting     #stuck by "nil" 
