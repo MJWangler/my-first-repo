@@ -1,0 +1,1 @@
+  # https://api.rubyonrails.org/ has lots of great examples. I like how easy it is to follow, even as a novice programmer I am able to understand what's written. It does an excellent job explaining in great detail what each component does and is used for. 
